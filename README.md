@@ -2,8 +2,7 @@
 
 ![smartmockups_kird3qa9](https://user-images.githubusercontent.com/40691793/102346203-0fc1b580-3fd1-11eb-97ea-0639507866cd.jpg)
 
-My First Freelance Project, has several features such as user management, add submissions, navigation settings, print reports.
-I made using Codeigniter 3 [More about Codeigniter](https://codeigniter.com/)
+My First Freelance Project, has several features such as user management, add submissions, navigation settings, print reports. I made using Codeigniter 3 [More about Codeigniter](https://codeigniter.com/)
 
 ## Built With
 
