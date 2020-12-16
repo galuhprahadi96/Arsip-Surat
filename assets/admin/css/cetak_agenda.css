@@ -1,0 +1,62 @@
+body{
+    margin: 0 auto;
+    font-family: roboto, sans-serif;
+}
+
+.disp {
+    text-align: center;
+    padding: 1.5rem 0;
+    margin-bottom: .5rem;
+}
+
+.logodisp {
+    float: left;
+    position: relative;
+    width: 110px;
+    height: 110px;
+    margin: 0 0 0 1rem;
+}
+
+#nama {
+    font-size: 20px;
+    margin-bottom: -1rem;
+}
+#alamat {
+    font-size: 16px;
+}
+.up {
+    text-transform: uppercase;
+    margin: 0;
+    line-height: 2.2rem;
+    font-size: 20px;
+}
+.status {
+    margin: 0;
+    font-size: 1.3rem;
+    margin-bottom: .5rem;
+}
+#lbr {
+    font-size: 20px;
+    font-weight: bold;
+}
+.separator {
+    border-bottom: 2px solid #616161;
+    margin: -1.3rem 0 1.5rem;
+}
+
+.table-data {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.table-data tr th,
+.table-data tr td{
+	border: 1px solid #000;
+	font-size: 10pt;
+	text-align: center;
+	padding: 5px;
+}
+
+#detail{
+	text-align: center;
+}
